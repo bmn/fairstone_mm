@@ -1,0 +1,26 @@
+Mediocre Mushrooms have hired you as a developer.
+They started building a website with two pages, using code they found from the internet, 
+but they can't seem to figure out why it doesn't quite work how they expected it would.
+
+Now you have been onboarded to the company. they would like you to fix what they started, 
+then they will give the time to build them a new site from scratch. 
+
+They don't need to sell mushrooms online, but they might want to have categories of pages etc 
+down the line as it grows such as product pages without the need for ecommerce. 
+The system should ideally have a CMS or way to allow an admin to add a product to the site in the future.
+
+We Recommend spending no longer than 3 hours on this as this should be possible in that time frame. 
+
+Task 1 - Create a GitHub repository to add these files to it, make sure it is set to public. 
+
+Task 2 - Find The things that are broken in this basic two page site and adjust the code to fix them. 
+Look for more technical things such as issues with code or directories not so much spelling and grammar mistakes.
+You can attach a txt file explaining why you have done things if you choose to do, 
+might be useful if you spot something incorrect , but unsure how to fix it.
+
+Task 3 - Briefly describe what route you suggest going down for developing a new website that will be able 
+to deliver what is required and why. ( A paragraph or two is more than enough , doesn't need to be extensive research ).
+
+When you are happy with the project send over the github repo link to your recruiter to send back to Fairstone.
+
+
