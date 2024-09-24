@@ -1,0 +1,87 @@
+body {
+  font-size: 14pt;
+}
+
+.background-color{
+  background-color: burlywood;
+}
+
+.main-section {
+    padding: 2rem;
+}
+
+.limited-width {
+  min-width: 60rem;
+  width: 75%;
+}
+
+.title{
+  font-size: 36pt;
+  font-weight: bolder;
+  color: brown;
+}
+
+.alignment {
+  justify-items: center;
+  justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.footer{
+  background-color: burlywood;
+  color:brown;
+}
+
+.carousel-caption {
+  color: black;
+  background-color: rgba(255,255,255,0.75);
+}
+
+.carousel-inner { 
+  --bs-aspect-ratio: 43.75%;
+}
+
+.navbar-nav {
+  font-size: 20pt;
+}
+
+.nav-link {
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+}
+
+
+/* Modal styles */
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+
+    background-color: rgba(0,0,0,0.4);
+}
+.modal-content {
+    margin: 15% auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%;
+    max-width: 600px;
+    background-color: white;
+}
+.close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+.close:hover,
+.close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
